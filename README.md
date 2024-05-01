@@ -6,7 +6,7 @@
 # 文字檔轉換
 
 # 斷詞
-處理上使用jieba套件，引用內建前綴詞典檔案(dict.txt.big) https://github.com/fxsjy/jieba/blob/master/extra_dict/dict.txt.big
+處理上使用jieba套件，引用Fxsjy於Github開源的內建前綴詞典檔案(dict.txt.big) https://github.com/fxsjy/jieba/blob/master/extra_dict/dict.txt.big
 ，結合本論文新增之CSR常見詞彙作斷詞依據，針對存在詞典內字詞以字典樹方式完成分割，不在詞典內字詞則以隱藏式馬可夫模型(HMM)處理。
 
 停用語的移除作業上以Goto456於Github開源的中文停用語表 https://github.com/goto456/stopwords/blob/master/cn_stopwords.txt
