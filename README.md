@@ -1,2 +1,2 @@
 # CSR-Reports-text-mining
-Provide code operations and tool suites for my thesis implementation as reference
+學術用途專案，以文字探勘相關技術針對國內現有(截至2023年)各家企業所出版公告的CSR報告書文本執行一系列分析與詞彙議題研究，捕捉產業特性在報告書當中具體存在的價值與軌跡。
