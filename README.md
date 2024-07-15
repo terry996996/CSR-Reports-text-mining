@@ -3,6 +3,8 @@
 
 核心技術包括:斷詞處理、詞頻分析、文字雲、詞頻反詞頻(TF-IDF)等
 
+論文連結:https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22112NTPU0303010%22.&searchmode=basic
+
 # 文字檔轉換
 
 # 斷詞
